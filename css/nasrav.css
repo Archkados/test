@@ -1,0 +1,256 @@
+.header{
+    position: absolute;
+    width: 100%;
+    height: 20vh;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(217, 217, 217, 0.55);    
+}
+.logo{
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 15px;
+    top: 25px;
+}
+.almaty{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 398px;
+    top: 45px;
+
+    background: #D9D9D9;
+    border-radius: 35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+    text-align: center;
+}
+.maga{
+    position: absolute;
+    width: 179px;
+    height: 45px;
+    left: 672px;
+    top: 45px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 45px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+      
+}
+.lang1{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 1100px;
+    top: 45px;
+
+    background: #D9D9D9;
+    border-radius: 35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+    text-align: center;
+}
+.lang2{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 1230px;
+    top: 45px;
+
+    background: #D9D9D9;
+    border-radius: 35px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+    text-align: center;
+}
+.sravbut{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1200px;
+    top: 130px;
+    border-radius: 5px;
+}
+.fav{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 1100px;
+    top: 130px;
+
+    background: #DFC872;
+    border-radius: 5px;
+}
+.un1{
+    position: absolute;
+    width: 108px;
+    height: 33px;
+    left: 28px;
+    top: 120px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 27px;
+    line-height: 33px;
+    text-decoration: none;
+    color: gray;
+
+    text-align: center;
+}
+.un2{
+    position: absolute;
+    width: 17px;
+    height: 30px;
+    left: 148px;
+    top: 118px;
+}
+.un3{
+    position: absolute;
+    width: 108px;
+    height: 33px;
+    left: 185px;
+    top: 122px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 27px;
+    line-height: 33px;
+    text-decoration: none;
+    color: gray;
+
+    text-align: center;
+}
+.under2{
+    position: absolute;
+    width: 100%;
+    height: 10vh;
+    left: 0px;
+    top: 194px;
+
+    background: rgba(217, 217, 217, 0.55);
+}
+.uni1{
+    position: absolute;
+    left: 580px;
+    bottom: 2px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #000000;    
+}
+.sm1{
+    position: absolute;
+    width: 279.67px;
+    height: 364px;
+    left: 15px;
+    top: 319px;    
+}
+.sm2{
+    position: absolute;
+    width: 282.22px;
+    height: 364px;
+    left: 560px;
+    top: 319px;
+        
+}
+.sm3{
+    position: absolute;
+    width: 286.39px;
+    height: 364px;
+    left: 1060px;
+    top: 319px;    
+}
+.smtx1{
+    position: absolute;
+    width: 307px;
+    height: 84px;
+    left: 15px;
+    top: 757px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #000000;
+    
+}
+.smtx2{
+    position: absolute;
+    width: 282px;
+    height: 126px;
+    left: 560px;
+    top: 750px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #000000;    
+}
+.smtx3{
+    position: absolute;
+    width: 286px;
+    height: 84px;
+    left: 1060px;
+    top: 745px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    
+    color: #000000;    
+}
+.ab1{
+    position: absolute;
+    width: 20%;
+    height: 200vh;
+    left: 50px;
+    top: 961px;
+}
+.ab2{
+    position: absolute;
+    width: 22%;
+    height: 150vh;
+    left: 580px;
+    top: 961px;
+}
+.ab3{
+    position: absolute;
+    width: 20%;
+    height: 200vh;
+    left: 1060px;
+    top: 961px;
+}
